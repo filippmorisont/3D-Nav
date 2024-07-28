@@ -31,4 +31,52 @@ function nextPage(index) {
   setTimeout(() => {
     overlay.style.animation = null;
   }, 1000);
+}.link {
+  position: relative;
+  color: #fff;
+  text-transform: capitalize;
+  font-size: 20px;
+  padding: 10px;
+  transition: 0.5s;
+  letter-spacing: 2px;
+  list-style: none;
+  font-weight: 600;
+  cursor: pointer;
 }
+.link {
+  position: relative;
+  color: #fff;
+  text-transform: capitalize;
+  font-size: 20px;
+  padding: 10px;
+  transition: 0.5s;
+  letter-spacing: 2px;
+  list-style: none;
+  font-weight: 600;
+  cursor: pointer;
+}
+.link {
+  position: relative;
+  color: #fff;
+  text-transform: capitalize;
+  font-size: 20px;
+  padding: 10px;
+  transition: 0.5s;
+  letter-spacing: 2px;
+  list-style: none;
+  font-weight: 600;
+  cursor: pointer;
+}
+.link {
+  position: relative;
+  color: #fff;
+  text-transform: capitalize;
+  font-size: 20px;
+  padding: 10px;
+  transition: 0.5s;
+  letter-spacing: 2px;
+  list-style: none;
+  font-weight: 600;
+  cursor: pointer;
+}
+vvv
